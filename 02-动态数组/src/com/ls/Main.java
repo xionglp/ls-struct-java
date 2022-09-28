@@ -6,7 +6,10 @@ public class Main {
 		
 		ArrayList arrayList = new ArrayList();
 		arrayList.add(11);
-		System.out.println(arrayList.get(12));;
+//		System.out.println(arrayList.get(6));
+		System.out.println(arrayList);
+		
+		System.out.println("测试提交代码");
 
 	}
 
